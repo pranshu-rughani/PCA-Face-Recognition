@@ -14,6 +14,6 @@
 -Around 180 images where used for training and 20 for testing
 -86% accuracy was obtained
 
-##Database 
+## Database 
 
 Link of database used:- https://drive.google.com/open?id=1NjttxvgBbNwGoTo77sr5lTW1Xcp4HOVe
